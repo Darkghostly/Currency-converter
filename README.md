@@ -1,26 +1,26 @@
-# Conversor de Moedas
+# Currency Converter
 
-Este é um projeto simples de conversor de moedas, desenvolvido como forma de prática em programação.  
-O objetivo é permitir que o usuário converta valores entre diferentes moedas de maneira rápida e intuitiva.
-
----
-
-## Funcionalidades
-- Conversão entre moedas (ex.: Real, Dólar, Euro).
-- Interface simples e fácil de usar.
-- Conversão instantânea ao digitar os valores.
-- Possibilidade de integração futura com uma API para valores atualizados em tempo real.
+This is a simple currency converter project, developed as a form of programming practice.
+The goal is to allow users to convert values ​​between different currencies quickly and intuitively.
 
 ---
 
-## Tecnologias utilizadas
-- HTML5 → Estrutura da aplicação  
-- CSS3 → Estilo e layout  
-- JavaScript (ES6+) → Lógica de funcionamento  
+## Features
+- Conversion between currencies (e.g., Brazilian Real, Dollar, Euro).
+- Simple and easy-to-use interface.
+- Instant conversion when entering values.
+- Possibility of future integration with an API for real-time updated values.
 
 ---
 
-## Como executar
-1. Faça o clone deste repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/conversor-moedas.git
+## Technologies used
+- HTML5 → Application structure
+- CSS3 → Style and layout
+- JavaScript (ES6+) → Operating logic
+
+---
+
+## How to run
+1. Clone this repository:
+```bash
+git clone https://github.com/seu-usuario/conversor-moedas.git
