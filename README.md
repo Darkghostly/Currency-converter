@@ -14,9 +14,7 @@ The goal is to allow users to convert values ​​between different currencies 
 ---
 
 ## Technologies used
-- HTML5 → Application structure
-- CSS3 → Style and layout
-- JavaScript (ES6+) → Operating logic
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)
 
 ---
 
